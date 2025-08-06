@@ -1,0 +1,7 @@
+require("prototypes.categories.ammo-category")
+require("prototypes.equipment")
+require("prototypes.item")
+require("prototypes.recipe")
+require("prototypes.technology")
+require("prototypes.entity.projectiles")
+require("prototypes.shortcuts")
